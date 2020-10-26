@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@100;200;300&display=swap');
+
+
+*{
+    font-family: 'Piazzolla', serif;
+}
+
+.layout{
+    background: #fff;
+}
+
+.ant-menu{
+    font-size: 1.4em;
+    font-weight: 600 !important;
+    background-color: #FFE5D4;
+    display: flex;
+    justify-content: center;
+}
+
+.ant-menu-item-active{
+    color: #545E75 !important;
+    border-bottom: 2px solid #545E75 !important;
+}
+
+.ant-menu-item-selected{
+    color: #56A3A6 !important;
+    border-bottom: 2px solid #56A3A6 !important;
+}

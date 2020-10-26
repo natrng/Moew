@@ -1,0 +1,21 @@
+.landingImage{
+    max-width: 90%;
+    display:block;
+    margin:auto;
+}
+
+.landingTitle{
+    font-size: 4em !important;
+    margin-top: 20px;
+}
+
+.imageText{
+    width:150px;
+    font-weight: 100;
+    font-size: 3.4em;
+    z-index: 100;
+    top: 200px;
+    position: absolute;
+    color: aliceblue !important;
+    right: 200px;
+}
